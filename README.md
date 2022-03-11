@@ -1,4 +1,4 @@
-# covid-ct-segmentation
+# Covid CT Segmentation
 
 - Developed model for detection of Covid tumor on computed tomography sliced shots. 
 - Increased dataset size by applying different augmentations.
